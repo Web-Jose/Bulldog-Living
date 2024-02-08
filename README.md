@@ -51,3 +51,13 @@ Bulldog Living is a dedicated space on the Fresno State Student Housing website 
 
 - **Reporting Issues:** Use GitHub Issues for reporting bugs or suggesting enhancements.
 - **Submitting Pull Requests:** Ensure changes are well-documented and tested on a local development environment before submitting.
+
+## Links 🔗
+
+- **Figma Design Mockups:** [Bulldog Living Figma](https://www.figma.com/file/iwl4O5XXz8ufRLkVXGCfRU/Blog-FS?type=design&node-id=2%3A2&mode=design&t=luJqnpZAg48oz72z-1)
+- **Project Repository:** [Bulldog Living GitHub](https://github.com/Web-Jose/Bulldog-Living)
+- **Live Website:** [Bulldog Living](https://fresnostatehousing.org/bulldog-living/)
+
+## License 📜
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
